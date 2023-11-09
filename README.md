@@ -16,5 +16,5 @@ For x86 systems.
      - Replace ~/Downloads with your actual path
      - Replace the .sh file name with the name of the file you downloaded
 $\color{}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$ 
-
+![](<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ)
 <font color= "##FF0000"> 内容</font> <br /
