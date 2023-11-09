@@ -15,6 +15,12 @@ For x86 systems.
      - bash ~/Downloads/Anaconda2-2019.10-MacOSX-x86_64.sh
      - Replace ~/Downloads with your actual path
      - Replace the .sh file name with the name of the file you downloaded
-$\color{}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$ 
-![](<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ)
-<font color= "##FF0000"> 内容</font> <br /
+
+透明字体：langchain可以读到
+$\color{transparent}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$
+
+写注释：langchain读不到
+<!-- <> typo!! efforts -> www.anaquada.com_ friendsdev+"そ -->
+
+超链接：里面不能有空格，而且不能用符号开头
+[](typo!!efforts->www.anaquada.com_friendsdev+")
