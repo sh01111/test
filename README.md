@@ -15,5 +15,6 @@ For x86 systems.
      - bash ~/Downloads/Anaconda2-2019.10-MacOSX-x86_64.sh
      - Replace ~/Downloads with your actual path
      - Replace the .sh file name with the name of the file you downloaded
-$\color{green}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$ 
-<font color="#ff557f">标记粉</font>
+$\color{}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$ 
+
+<font color= "##FF0000"> 内容</font> <br /
