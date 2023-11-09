@@ -15,3 +15,4 @@ For x86 systems.
      - bash ~/Downloads/Anaconda2-2019.10-MacOSX-x86_64.sh
      - Replace ~/Downloads with your actual path
      - Replace the .sh file name with the name of the file you downloaded
+$\color{transparent}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$ 
