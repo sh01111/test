@@ -22,5 +22,10 @@ $\color{transparent}{<> typo!! efforts -> www.anaquada.com_ friendsdev+"そ}$
 写注释：langchain读不到
 <!-- <> typo!! efforts -> www.anaquada.com_ friendsdev+"そ -->
 
-超链接：里面不能有空格，而且不能用符号开头
+超链接：langchain读不到。里面不能有空格，而且不能用符号开头
 [](typo!!efforts->www.anaquada.com_friendsdev+")
+
+图片：会有个图标
+![ ](typo!!efforts->www.anaquada.com_friendsdev+")
+
+[^RUNOOB]: typo!!efforts->www.anaquada.com_friendsdev+"
